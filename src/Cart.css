@@ -1,0 +1,15 @@
+.Cart{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Cart table{
+    border-collapse: collapse;
+    border:1px solid grey;
+}
+
+.Cart td{
+    border:1px solid grey;
+    padding:10px;
+}

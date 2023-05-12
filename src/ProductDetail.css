@@ -1,0 +1,12 @@
+.ProductDetail{
+    display: flex;
+}
+.ProductDetail-img{
+    max-width: 50%;
+
+}
+.ProductDetail-contents{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
